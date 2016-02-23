@@ -1,0 +1,18 @@
+{
+    "name": "rocketpastsix/oauth2-digitalocean",
+    "description": "Digital Ocean Oauth2 Provider for the PHP League",
+    "type": "Package",
+    "require": {
+        "league/oauth2-client": "^1.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Trask",
+            "email": "mjftrask@gmail.com"
+        }
+    ]
+}
